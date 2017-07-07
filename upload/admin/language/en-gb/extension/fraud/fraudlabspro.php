@@ -19,7 +19,7 @@ $_['text_ip_distance']           = 'IP Distance';
 $_['text_ip_latitude']           = 'IP Latitude';
 $_['text_ip_longitude']          = 'IP Longitude';
 $_['text_risk_country']          = 'High Risk Country';
-$_['text_free_email']            = 'Free Email';
+$_['text_free_email']            = 'Free E-mail';
 $_['text_ship_forward']          = 'Ship Forward';
 $_['text_using_proxy']           = 'Using Proxy';
 $_['text_bin_found']             = 'BIN Found';
@@ -76,4 +76,4 @@ $_['help_credits']               = 'Balance of the credits available after this 
 
 // Error
 $_['error_permission']           = 'Warning: You do not have permission to modify FraudLabs Pro settings!';
-$_['error_key']                  = 'API Key Required!';
+$_['error_key']                  = 'API Key required!';
